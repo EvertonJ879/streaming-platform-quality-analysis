@@ -7,7 +7,7 @@ outperform on quality metrics. Built as a portfolio piece
 demonstrating SQL data engineering and Tableau visualization skills.
 
 ## Data Sources
-- TMDB (The Movie Database) — via Kaggle -37,955 titles across movies and TV shows
+- TMDB (The Movie Database) — via Kaggle — 37,955 titles across movies and TV shows
 - Dataset includes Platform availability, Genre classifications, User ratings, and Vote Counts 
 - Analysis period: 2021–2025
 - Quality metric: TMDB weighted average rating (minimum 100 votes 
